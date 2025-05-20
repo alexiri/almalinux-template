@@ -1,6 +1,6 @@
 Welcome to your shiny new repository! Below is a README template that should be completed. Anything that isn't applicable can be removed, but think hard before removing it. 
 
-*****Please make sure you chose a license that is approrpriate for your goals and cosnsitsent with [our policy]([url](https://almalinux.org/p/the-almalinux-os-licensing-policy/))*****
+*****Please make sure you chose a license that is appropriate for your goals and consistent with [our policy]([url](https://almalinux.org/p/the-almalinux-os-licensing-policy/))*****
 
 # Purpose
 
