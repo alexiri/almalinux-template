@@ -1,6 +1,6 @@
-Welcome to your shiny new repository! Below is a README template that should be completed. Anything that isn't applicable can be removed, but think hard before removing it. 
+Welcome to your shiny new repository! Below is a README template that should be completed. Anything that isn't applicable can be removed, but think hard before removing it.
 
-*****Please make sure you chose a license that is appropriate for your goals and consistent with [our policy]([url](https://almalinux.org/p/the-almalinux-os-licensing-policy/))*****
+*****Please make sure you chose a license that is appropriate for your goals and consistent with [our policy](https://almalinux.org/p/the-almalinux-os-licensing-policy/)*****
 
 # Purpose
 
@@ -8,7 +8,7 @@ Briefly (or more verbosely) describe the purpose of this repo
 
 # Contributing
 
-We welcome contributions to all parts of the AlmaLinux project. Describe how your contributors might help with what you're doing! 
+We welcome contributions to all parts of the AlmaLinux project. Describe how your contributors might help with what you're doing!
 
 ## Contributing - Code and Design
 
@@ -21,13 +21,13 @@ Before submitting code changes, please check if there are any open issues or pul
 - Fork the project.
 - Create a new branch for your feature or bug fix.
 - Add your code, documentation, etc.
-- Submit a pull request (PR). All PRs should target the `main` or `master` branch. 
+- Submit a pull request (PR). All PRs should target the `main` or `master` branch.
 
 After review and approval, the changes will be merged and deployed.
 
 ## Reporting a Bug
 
-Describe the important things for bug reporting. The org has bug report templates, but you can also create your own. 
+Describe the important things for bug reporting. The org has bug report templates, but you can also create your own.
 
 ## Requesting a Feature
 
